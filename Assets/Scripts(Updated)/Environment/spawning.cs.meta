@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8995125eedfcac44a617b67ba3810e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bot1: {fileID: 6085474512693609798, guid: 5f6e5393f56ba1c40b070afa5521fead, type: 3}
+  - bot2: {fileID: 1561094911331415015, guid: 81a4c3502cac45f4ab7b99d31df59eac, type: 3}
+  - bot3: {fileID: 1561094911331415015, guid: 64e15518f094d1a40b49f307f88b5c2d, type: 3}
+  - levelBar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
